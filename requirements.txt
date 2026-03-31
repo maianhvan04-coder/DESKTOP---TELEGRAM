@@ -1,0 +1,6 @@
+PySide6>=6.8,<7
+Telethon>=1.41,<2
+pymongo>=4.16,<5
+APScheduler>=3.10,<4
+python-dotenv>=1.0,<2
+PyInstaller>=6.11,<7
